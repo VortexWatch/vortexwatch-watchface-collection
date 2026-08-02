@@ -1,4 +1,4 @@
-# 💎 VortexWatch Studio: Timepiece Collection & Python DevKit
+# 💎 VortexWatch Studio: Timepiece Collection
 
 Welcome to the official repository of **VortexWatch Studio**. This project bridges premium luxury watch face design curation with open-source local developer automation scripts. 
 
