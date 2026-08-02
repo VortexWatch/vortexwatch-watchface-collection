@@ -35,4 +35,4 @@ To bypass the official smartphone application cache completely, you can flash ou
 
 
 ---
-*Disclaimer: VortexWatch Studio operates as an independent design and automation collective. All layout configurations and parsing scripts are developed under clean-room specifications and are distributed strictly for educational and evaluation purposes. We are not affiliated with Shenzhen DO Intelligent Technology Co., Ltd or individual repository developers.*
+*Disclaimer: VortexWatch Studio operates as an independent design and automation collective. All layout configurations and parsing scripts are developed under clean specifications and are distributed strictly for educational and evaluation purposes. We are not affiliated with Shenzhen DO Intelligent Technology Co., Ltd or individual repository developers.*
