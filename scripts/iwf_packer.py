@@ -1,7 +1,3 @@
-"""
-Create IWF from folder - Python port of createiwffromfolder.cpp
-"""
-
 import os
 import json
 import struct
